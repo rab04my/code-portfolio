@@ -1,0 +1,501 @@
+id,education_level,education_major_at_highest_level,current_job_title,sex,zip_code,certifications,birth_date,current_job_start_date,years_experience
+101,Bachelors,Data Science,Mechanical Engineer,M,98101,Six Sigma,1998-09-07,2021-04-17,4
+102,Masters,Mathematics,Marketing Specialist,M,98101,Scrum Master,1971-02-14,2005-06-11,20
+103,PhD,Physics,UX Designer,M,33101,Scrum Master,1980-12-26,2012-12-25,12
+104,Bachelors,Psychology,Product Manager,F,30309,Tableau,1976-04-05,2002-11-04,22
+105,Bachelors,Mechanical Engineering,Mechanical Engineer,F,98101,CFA,2000-05-10,2025-05-25,0
+106,Masters,Computer Science,Software Engineer,F,10001,None,1973-11-25,2022-05-16,3
+107,PhD,Economics,Marketing Specialist,M,60614,Tableau,1988-12-04,2011-08-16,14
+108,PhD,Business Administration,Data Analyst,M,30309,Scrum Master,1971-05-04,1997-07-11,28
+109,Bachelors,Economics,Software Engineer,M,60614,Six Sigma,1979-10-23,2012-03-24,13
+110,Associate,Psychology,Business Analyst,F,10001,UX-C,1992-09-01,2021-05-27,4
+111,Bachelors,Political Science,Business Analyst,M,98101,Scrum Master,1971-03-11,2018-05-08,7
+112,Bachelors,Political Science,QA Tester,F,98101,Six Sigma,1978-12-02,2025-05-07,0
+113,Bachelors,Mechanical Engineering,Product Manager,F,33101,Tableau,1988-10-26,2015-09-30,10
+114,Bachelors,Business Administration,UX Designer,M,98101,CFA,1990-02-24,2025-05-08,0
+115,Masters,Mathematics,Mechanical Engineer,M,30309,Scrum Master,1982-06-24,2022-08-13,3
+116,PhD,Mechanical Engineering,Research Scientist,F,10001,PMP,1970-04-17,1999-06-09,26
+117,Masters,Economics,Data Analyst,M,75201,Six Sigma,1988-12-16,2018-07-29,7
+118,Masters,Mechanical Engineering,Marketing Specialist,F,10001,CFA,1982-06-19,2007-12-08,17
+119,Masters,Economics,UX Designer,M,30309,UX-C,1979-08-29,2016-09-27,9
+120,Bachelors,Physics,Software Engineer,M,30309,UX-C,1974-08-02,2000-09-23,25
+121,Associate,Political Science,Business Analyst,F,33101,None,1987-01-16,2011-03-13,14
+122,PhD,Physics,Data Analyst,M,33101,Six Sigma,1986-02-07,2015-10-20,9
+123,Associate,Computer Science,Research Scientist,F,98101,Tableau,1997-01-30,2022-01-12,3
+124,Masters,Business Administration,Mechanical Engineer,M,80202,None,1971-12-13,2014-07-17,11
+125,Masters,Mathematics,QA Tester,F,10001,None,1994-01-20,2017-06-09,8
+126,Associate,Economics,Research Scientist,F,10001,AWS,1986-12-24,2010-09-24,15
+127,Associate,Mathematics,Data Analyst,M,80202,Scrum Master,1994-10-06,2020-01-13,5
+128,Associate,Economics,Research Scientist,F,33101,Six Sigma,1998-03-14,2024-03-28,1
+129,Masters,Psychology,Data Analyst,M,98101,None,1995-11-25,2020-01-15,5
+130,Masters,Mechanical Engineering,Data Analyst,M,80202,AWS,1973-02-13,1997-02-27,28
+131,PhD,Computer Science,Systems Analyst,M,98101,Tableau,1999-08-31,2022-12-04,2
+132,PhD,Political Science,Marketing Specialist,F,98101,CFA,1982-12-25,2006-10-03,19
+133,Masters,Economics,Business Analyst,F,98101,PMP,1980-06-11,2006-12-16,18
+134,Associate,Mathematics,Systems Analyst,M,94107,PMP,1987-01-19,2015-04-09,10
+135,Associate,Computer Science,Mechanical Engineer,M,30309,Six Sigma,1990-05-04,2020-07-03,5
+136,PhD,Biology,Systems Analyst,F,98101,None,1977-04-18,2015-11-20,9
+137,Masters,Biology,Product Manager,M,94107,PMP,1985-12-08,2012-08-14,13
+138,PhD,Physics,Product Manager,M,33101,Scrum Master,2000-01-24,2023-07-18,2
+139,PhD,Political Science,Business Analyst,F,80202,PMP,2000-08-30,2023-01-18,2
+140,Bachelors,Psychology,Research Scientist,M,30309,PMP,1997-04-29,2021-03-24,4
+141,Bachelors,Mathematics,Marketing Specialist,F,75201,PMP,1993-12-17,2024-02-14,1
+142,Bachelors,Mechanical Engineering,Business Analyst,M,80202,UX-C,1980-12-24,2010-04-18,15
+143,Associate,Mechanical Engineering,Data Analyst,F,30309,AWS,1990-09-26,2021-03-25,4
+144,Masters,Mathematics,Software Engineer,M,75201,None,1982-02-09,2024-11-05,0
+145,Masters,Business Administration,Marketing Specialist,M,80202,Scrum Master,1998-09-16,2024-07-20,1
+146,Masters,Psychology,Marketing Specialist,F,30309,None,1994-12-26,2019-06-07,6
+147,Masters,Computer Science,Data Analyst,M,80202,UX-C,2000-09-16,2024-07-06,1
+148,Bachelors,Economics,Data Analyst,F,80202,Six Sigma,1972-07-05,2004-10-07,21
+149,Associate,Business Administration,QA Tester,M,75201,Six Sigma,1971-06-10,2007-07-29,18
+150,Associate,Economics,Business Analyst,F,80202,Six Sigma,1987-12-30,2015-12-26,9
+151,Bachelors,Economics,Data Analyst,F,80202,Tableau,1972-12-20,2004-06-01,21
+152,Associate,Business Administration,Product Manager,F,75201,PMP,1995-06-11,2025-06-23,0
+153,Bachelors,Physics,Mechanical Engineer,F,33101,Tableau,1984-02-12,2010-11-13,14
+154,Masters,Biology,Software Engineer,M,98101,AWS,1999-05-27,2024-03-08,1
+155,Bachelors,Economics,Business Analyst,M,10001,Six Sigma,1987-10-01,2024-02-25,1
+156,Masters,Business Administration,UX Designer,F,60614,UX-C,1990-08-01,2015-10-09,10
+157,Masters,Business Administration,Product Manager,F,94107,Scrum Master,1981-11-18,2006-12-30,18
+158,PhD,Data Science,Research Scientist,F,60614,None,1981-01-23,2014-10-31,10
+159,Bachelors,Physics,Data Analyst,M,60614,PMP,1996-03-22,2023-01-04,2
+160,PhD,Political Science,UX Designer,M,30309,CFA,1996-03-05,2022-08-21,3
+161,Bachelors,Data Science,Data Analyst,M,98101,Scrum Master,1986-03-28,2013-02-20,12
+162,Bachelors,Data Science,Marketing Specialist,M,30309,PMP,1976-03-16,2021-01-17,4
+163,PhD,Mathematics,Product Manager,F,98101,Tableau,1992-02-20,2016-02-28,9
+164,PhD,Biology,Marketing Specialist,F,75201,Tableau,1972-02-11,1999-01-06,26
+165,Bachelors,Business Administration,QA Tester,F,75201,Scrum Master,1976-11-09,2006-01-07,19
+166,Associate,Biology,Marketing Specialist,M,10001,Tableau,2000-07-11,2024-11-16,0
+167,Masters,Psychology,QA Tester,M,98101,Six Sigma,1996-10-02,2019-06-14,6
+168,PhD,Mathematics,QA Tester,M,80202,AWS,1987-04-06,2017-10-21,7
+169,Masters,Political Science,UX Designer,F,33101,None,1996-09-24,2023-12-19,1
+170,Associate,Biology,Data Analyst,F,10001,AWS,1993-09-26,2018-07-16,7
+171,Associate,Mechanical Engineering,Research Scientist,M,10001,PMP,1994-10-26,2016-12-06,8
+172,Associate,Economics,Marketing Specialist,F,80202,None,2000-07-07,2023-02-21,2
+173,PhD,Psychology,Product Manager,M,33101,UX-C,2000-07-31,2025-07-29,0
+174,Associate,Physics,QA Tester,M,30309,None,1981-12-20,2021-03-11,4
+175,PhD,Political Science,Data Analyst,F,33101,AWS,1998-10-02,2022-08-23,3
+176,Associate,Psychology,Software Engineer,M,30309,Scrum Master,1975-01-02,2010-02-25,15
+177,Masters,Economics,Business Analyst,F,75201,None,1989-07-03,2015-01-13,10
+178,Masters,Mathematics,UX Designer,M,60614,UX-C,1990-05-09,2012-05-29,13
+179,Bachelors,Economics,Research Scientist,F,75201,UX-C,1981-10-25,2025-08-06,0
+180,Masters,Data Science,Systems Analyst,F,75201,UX-C,1992-06-15,2018-06-12,7
+181,Bachelors,Economics,UX Designer,F,60614,AWS,1992-10-09,2024-12-28,0
+182,Masters,Data Science,Software Engineer,M,33101,None,1974-10-10,2024-10-21,0
+183,PhD,Mathematics,Business Analyst,M,10001,CFA,1983-05-22,2024-03-31,1
+184,Masters,Computer Science,Software Engineer,F,33101,Scrum Master,1998-08-30,2023-06-29,2
+185,Bachelors,Data Science,Marketing Specialist,F,30309,Six Sigma,1997-04-26,2021-07-13,4
+186,Bachelors,Physics,QA Tester,M,80202,None,1976-11-09,2015-08-13,10
+187,Associate,Economics,Research Scientist,M,30309,UX-C,1977-03-31,2023-06-05,2
+188,PhD,Economics,Mechanical Engineer,M,80202,CFA,1993-10-16,2015-10-13,10
+189,Masters,Physics,QA Tester,F,75201,Six Sigma,1996-11-13,2022-06-27,3
+190,Associate,Mechanical Engineering,Mechanical Engineer,M,60614,Six Sigma,1991-12-02,2014-05-04,11
+191,Masters,Business Administration,Business Analyst,M,75201,PMP,1975-01-07,2013-04-14,12
+192,Masters,Computer Science,Data Analyst,F,98101,None,1983-10-18,2011-02-24,14
+193,Associate,Political Science,Systems Analyst,M,33101,AWS,1972-08-07,2005-05-22,20
+194,Associate,Data Science,Product Manager,M,80202,None,1995-06-14,2018-04-26,7
+195,Associate,Physics,QA Tester,M,30309,CFA,1973-11-04,2017-08-17,8
+196,Associate,Mathematics,Research Scientist,F,60614,Six Sigma,1973-02-07,2018-12-25,6
+197,Associate,Data Science,Software Engineer,F,80202,None,1975-08-23,2003-05-21,22
+198,Masters,Business Administration,Research Scientist,F,30309,AWS,1999-08-06,2024-03-30,1
+199,Associate,Mathematics,Business Analyst,F,33101,PMP,1994-08-30,2018-07-01,7
+200,PhD,Psychology,Mechanical Engineer,F,75201,None,1981-11-21,2015-09-16,10
+201,Bachelors,Economics,Software Engineer,F,33101,Scrum Master,1997-03-18,2023-12-10,1
+202,Associate,Psychology,Product Manager,F,94107,PMP,1979-07-03,2025-09-04,0
+203,Associate,Data Science,Product Manager,M,98101,AWS,2000-12-11,2024-01-21,1
+204,Masters,Business Administration,QA Tester,M,94107,CFA,1983-12-26,2014-12-01,10
+205,Associate,Computer Science,Business Analyst,F,60614,Six Sigma,2000-02-17,2025-10-03,0
+206,Associate,Data Science,Data Analyst,M,80202,None,1986-10-02,2018-07-24,7
+207,Associate,Physics,Business Analyst,M,60614,AWS,1993-03-20,2020-04-06,5
+208,Masters,Biology,Mechanical Engineer,F,75201,PMP,1975-06-06,2008-07-13,17
+209,Associate,Data Science,Research Scientist,M,30309,Scrum Master,1980-01-30,2004-12-08,20
+210,Bachelors,Economics,Product Manager,M,33101,AWS,1985-03-02,2007-08-16,18
+211,Masters,Economics,Research Scientist,M,94107,Tableau,1996-05-22,2024-08-01,1
+212,Bachelors,Data Science,Research Scientist,M,10001,UX-C,1980-04-28,2012-03-09,13
+213,Masters,Mathematics,Research Scientist,M,94107,Scrum Master,1970-04-28,1995-06-29,30
+214,Associate,Biology,Product Manager,F,75201,PMP,1998-04-23,2020-08-15,5
+215,Bachelors,Physics,UX Designer,F,94107,CFA,1980-04-08,2005-04-11,20
+216,Masters,Data Science,Marketing Specialist,F,75201,Six Sigma,1971-05-30,2008-03-19,17
+217,PhD,Mathematics,Mechanical Engineer,M,10001,PMP,1973-03-06,2018-03-23,7
+218,Associate,Economics,UX Designer,F,60614,UX-C,1980-09-04,2015-02-25,10
+219,Masters,Economics,Mechanical Engineer,M,33101,CFA,2000-01-04,2024-09-18,1
+220,PhD,Business Administration,Software Engineer,M,80202,None,1979-08-12,2025-10-13,0
+221,Masters,Data Science,Business Analyst,M,30309,AWS,1975-12-08,2023-07-14,2
+222,PhD,Biology,Business Analyst,M,80202,Tableau,1995-11-06,2023-02-18,2
+223,Associate,Mechanical Engineering,Systems Analyst,F,60614,Scrum Master,1980-11-25,2024-02-07,1
+224,Bachelors,Biology,Business Analyst,F,30309,Scrum Master,1988-04-05,2014-07-07,11
+225,PhD,Economics,Product Manager,M,94107,AWS,1974-03-26,2000-07-25,25
+226,Masters,Economics,Data Analyst,F,10001,Tableau,1999-07-24,2023-12-17,1
+227,Associate,Psychology,QA Tester,M,10001,AWS,1985-11-22,2017-05-17,8
+228,PhD,Economics,Systems Analyst,F,98101,None,1988-06-10,2020-11-24,4
+229,Masters,Physics,QA Tester,F,60614,UX-C,1972-06-06,2024-08-14,1
+230,Masters,Political Science,Mechanical Engineer,M,60614,CFA,1999-04-25,2024-12-02,0
+231,Masters,Data Science,QA Tester,F,33101,PMP,1974-06-01,1999-02-13,26
+232,PhD,Biology,QA Tester,M,80202,Scrum Master,1988-01-23,2017-08-27,8
+233,PhD,Political Science,Systems Analyst,F,60614,None,1974-11-26,2008-01-15,17
+234,PhD,Mathematics,Software Engineer,M,60614,CFA,1978-08-06,2009-02-10,16
+235,Bachelors,Mechanical Engineering,Research Scientist,M,94107,None,1994-01-21,2021-01-26,4
+236,PhD,Physics,Business Analyst,F,94107,Tableau,1976-04-15,2017-03-13,8
+237,PhD,Biology,Business Analyst,F,30309,Scrum Master,1978-03-26,2012-09-16,13
+238,PhD,Political Science,Product Manager,M,75201,PMP,1990-10-02,2018-05-04,7
+239,Bachelors,Mechanical Engineering,Systems Analyst,F,75201,AWS,1973-05-20,2015-03-31,10
+240,PhD,Psychology,Product Manager,F,98101,AWS,1994-09-08,2017-10-08,8
+241,Masters,Physics,Data Analyst,M,75201,CFA,1972-04-08,2023-07-04,2
+242,PhD,Physics,Data Analyst,M,33101,PMP,1994-04-01,2025-08-10,0
+243,Masters,Psychology,Product Manager,F,98101,UX-C,1970-08-30,1996-10-30,28
+244,Masters,Data Science,Systems Analyst,M,30309,Six Sigma,1980-08-08,2010-01-17,15
+245,Masters,Psychology,Product Manager,M,94107,Tableau,1988-03-25,2021-02-08,4
+246,Bachelors,Physics,Business Analyst,M,75201,CFA,1991-08-05,2018-05-16,7
+247,Bachelors,Physics,UX Designer,F,80202,Six Sigma,1987-12-28,2011-04-16,14
+248,Bachelors,Political Science,Marketing Specialist,F,94107,None,1977-05-21,2016-05-15,9
+249,PhD,Economics,QA Tester,M,10001,Tableau,1970-02-05,2009-08-05,16
+250,Masters,Mechanical Engineering,Marketing Specialist,F,33101,None,1981-11-24,2024-08-30,1
+251,Bachelors,Psychology,Systems Analyst,M,94107,UX-C,1990-05-30,2018-10-16,7
+252,Bachelors,Mechanical Engineering,Marketing Specialist,F,33101,PMP,1988-12-22,2023-06-04,2
+253,PhD,Psychology,Data Analyst,M,33101,Scrum Master,1999-09-10,2025-09-14,0
+254,Bachelors,Mathematics,Mechanical Engineer,M,33101,Tableau,1991-10-31,2017-04-15,8
+255,PhD,Physics,QA Tester,F,30309,Six Sigma,1978-07-09,2013-10-24,11
+256,Associate,Economics,Research Scientist,M,33101,UX-C,1979-10-07,2004-05-16,21
+257,Bachelors,Political Science,Systems Analyst,F,33101,Scrum Master,1995-12-25,2024-01-17,1
+258,Associate,Economics,QA Tester,F,10001,AWS,1972-09-25,2008-10-14,17
+259,PhD,Economics,Marketing Specialist,M,80202,Six Sigma,1972-07-25,1996-10-18,29
+260,Masters,Economics,Data Analyst,M,98101,CFA,1996-03-16,2023-07-15,2
+261,Bachelors,Mechanical Engineering,Software Engineer,F,60614,AWS,1992-07-22,2018-01-26,7
+262,PhD,Psychology,UX Designer,M,10001,UX-C,1972-07-20,2017-04-25,8
+263,Masters,Computer Science,Research Scientist,M,98101,AWS,1973-08-05,2003-11-30,21
+264,Masters,Mathematics,UX Designer,M,33101,CFA,1973-01-27,2021-10-01,4
+265,Associate,Biology,QA Tester,M,80202,Tableau,1973-01-18,2025-04-27,0
+266,PhD,Economics,Data Analyst,M,94107,AWS,1980-07-20,2020-08-24,5
+267,Masters,Data Science,Data Analyst,F,80202,PMP,1975-05-19,2022-12-01,2
+268,Bachelors,Mechanical Engineering,Marketing Specialist,F,10001,Six Sigma,1981-01-16,2004-10-23,20
+269,Bachelors,Political Science,Business Analyst,M,33101,Scrum Master,1997-10-13,2020-09-07,5
+270,Associate,Biology,Marketing Specialist,M,80202,AWS,1988-10-21,2025-07-14,0
+271,Masters,Computer Science,Business Analyst,M,75201,Six Sigma,1996-03-07,2024-07-03,1
+272,PhD,Data Science,Business Analyst,F,80202,None,1993-06-14,2018-12-25,6
+273,Bachelors,Computer Science,Research Scientist,M,33101,Six Sigma,1981-09-12,2008-04-06,17
+274,Masters,Biology,Marketing Specialist,F,30309,Scrum Master,2000-01-16,2023-10-15,2
+275,Masters,Economics,Software Engineer,F,75201,Six Sigma,1980-09-15,2014-08-09,11
+276,Associate,Data Science,Product Manager,F,80202,CFA,1987-10-03,2012-09-03,13
+277,Bachelors,Computer Science,Product Manager,M,60614,UX-C,2000-02-17,2025-09-24,0
+278,Bachelors,Political Science,Marketing Specialist,F,60614,Scrum Master,1983-06-17,2015-09-12,10
+279,PhD,Psychology,Marketing Specialist,M,80202,UX-C,1984-03-08,2023-01-12,2
+280,Bachelors,Physics,UX Designer,F,30309,Tableau,1973-04-03,1995-08-28,30
+281,PhD,Psychology,Research Scientist,M,94107,UX-C,1990-07-23,2025-03-03,0
+282,Bachelors,Biology,Marketing Specialist,F,33101,None,1974-06-27,1999-10-04,26
+283,Associate,Mechanical Engineering,UX Designer,M,60614,CFA,1994-02-12,2018-06-29,7
+284,Bachelors,Physics,Business Analyst,F,94107,Tableau,1992-09-10,2017-08-26,8
+285,PhD,Mathematics,Data Analyst,M,80202,Six Sigma,1975-12-11,2013-08-01,12
+286,PhD,Political Science,Data Analyst,M,10001,Scrum Master,1973-02-01,2006-01-11,19
+287,Associate,Mathematics,Business Analyst,M,94107,None,1986-07-30,2014-12-14,10
+288,Bachelors,Data Science,Systems Analyst,M,75201,CFA,1977-01-28,2018-09-19,7
+289,Bachelors,Physics,UX Designer,F,98101,Tableau,1994-05-15,2024-03-29,1
+290,Associate,Mathematics,UX Designer,F,60614,Tableau,1983-07-28,2019-04-10,6
+291,Bachelors,Mathematics,Business Analyst,M,80202,None,1999-05-03,2024-04-14,1
+292,Bachelors,Computer Science,Software Engineer,F,10001,PMP,1970-05-09,2022-04-18,3
+293,PhD,Psychology,Mechanical Engineer,M,33101,Six Sigma,1994-11-17,2020-03-21,5
+294,Bachelors,Computer Science,QA Tester,M,10001,None,1999-10-04,2022-04-28,3
+295,Bachelors,Physics,Business Analyst,F,30309,Tableau,1976-01-10,2009-11-15,15
+296,Associate,Physics,Marketing Specialist,M,75201,AWS,1975-03-07,2001-12-18,23
+297,Associate,Biology,Marketing Specialist,M,80202,CFA,1994-10-26,2018-07-18,7
+298,Masters,Computer Science,Research Scientist,F,33101,None,1982-03-21,2010-07-10,15
+299,PhD,Business Administration,Business Analyst,M,30309,PMP,1997-02-17,2021-06-23,4
+300,Bachelors,Psychology,Research Scientist,M,30309,Tableau,1985-05-19,2011-12-06,13
+301,Bachelors,Physics,Business Analyst,M,80202,Six Sigma,2000-11-02,2024-04-20,1
+302,Masters,Biology,UX Designer,M,75201,UX-C,1992-09-02,2020-02-19,5
+303,Bachelors,Computer Science,QA Tester,F,94107,Tableau,1981-04-07,2005-07-12,20
+304,PhD,Psychology,UX Designer,F,94107,Six Sigma,1974-02-21,2024-07-30,1
+305,Masters,Computer Science,Mechanical Engineer,F,30309,None,1988-12-31,2017-03-10,8
+306,PhD,Mathematics,Data Analyst,M,94107,Six Sigma,1971-12-24,1994-02-14,31
+307,Masters,Biology,Product Manager,M,98101,Scrum Master,1984-12-17,2024-03-29,1
+308,Masters,Psychology,Business Analyst,F,30309,Scrum Master,1975-11-14,2009-08-08,16
+309,Associate,Economics,Mechanical Engineer,M,30309,Scrum Master,1977-04-01,2019-01-20,6
+310,PhD,Data Science,Data Analyst,M,33101,PMP,1994-09-30,2024-08-23,1
+311,Bachelors,Data Science,Systems Analyst,M,94107,PMP,1989-03-09,2023-10-01,2
+312,Bachelors,Psychology,QA Tester,M,75201,AWS,1970-06-08,1997-06-08,28
+313,PhD,Computer Science,Research Scientist,F,30309,PMP,1973-05-17,2002-01-17,23
+314,Bachelors,Biology,Research Scientist,F,10001,UX-C,1994-06-22,2016-11-10,8
+315,Bachelors,Data Science,UX Designer,F,75201,None,1986-07-25,2021-08-11,4
+316,PhD,Biology,Marketing Specialist,M,98101,Tableau,1994-10-14,2018-06-06,7
+317,Masters,Data Science,Data Analyst,F,33101,Tableau,1989-04-12,2014-02-14,11
+318,PhD,Mathematics,Systems Analyst,F,80202,AWS,1971-11-17,2007-09-09,18
+319,Masters,Computer Science,Mechanical Engineer,M,75201,PMP,1986-05-11,2009-03-27,16
+320,Bachelors,Mathematics,QA Tester,M,30309,UX-C,1986-01-19,2012-09-29,13
+321,Bachelors,Data Science,Data Analyst,F,98101,Six Sigma,2000-08-05,2023-12-24,1
+322,Bachelors,Economics,Systems Analyst,F,60614,AWS,1999-12-02,2022-06-24,3
+323,Associate,Economics,Product Manager,F,98101,UX-C,1985-11-12,2025-05-06,0
+324,Masters,Mathematics,Business Analyst,F,98101,Six Sigma,1995-02-12,2021-08-28,4
+325,Associate,Economics,Research Scientist,M,33101,UX-C,1997-11-03,2021-07-23,4
+326,Associate,Data Science,Mechanical Engineer,F,80202,Six Sigma,1980-08-14,2009-11-22,15
+327,PhD,Psychology,Research Scientist,F,60614,CFA,1977-12-10,2018-06-03,7
+328,Associate,Mathematics,Mechanical Engineer,M,94107,UX-C,1971-02-11,2001-02-21,24
+329,PhD,Mechanical Engineering,UX Designer,F,94107,Tableau,1984-11-25,2024-06-07,1
+330,PhD,Computer Science,Marketing Specialist,M,75201,Scrum Master,1988-06-20,2025-06-23,0
+331,Associate,Economics,Mechanical Engineer,M,98101,PMP,1981-02-17,2015-01-31,10
+332,Masters,Economics,Research Scientist,M,10001,Six Sigma,1977-02-21,2003-12-23,21
+333,Masters,Physics,UX Designer,F,33101,CFA,1987-02-28,2010-01-05,15
+334,Masters,Business Administration,Mechanical Engineer,F,10001,UX-C,1991-02-11,2018-02-01,7
+335,Masters,Mathematics,Product Manager,M,33101,Tableau,1978-12-14,2021-08-01,4
+336,Masters,Political Science,Marketing Specialist,F,94107,Scrum Master,1985-09-07,2014-07-07,11
+337,Associate,Economics,Mechanical Engineer,F,75201,Six Sigma,1980-03-17,2012-03-11,13
+338,Associate,Computer Science,UX Designer,M,75201,UX-C,1971-01-23,2022-08-26,3
+339,Bachelors,Mechanical Engineering,Data Analyst,M,75201,UX-C,1978-08-31,2018-07-10,7
+340,Masters,Economics,Software Engineer,F,60614,Six Sigma,1984-09-22,2012-12-16,12
+341,Associate,Mechanical Engineering,Systems Analyst,M,80202,AWS,1973-02-11,2007-08-15,18
+342,Bachelors,Data Science,Software Engineer,F,60614,AWS,1985-10-02,2022-02-15,3
+343,Masters,Data Science,Software Engineer,F,30309,Tableau,1992-11-07,2019-04-27,6
+344,PhD,Business Administration,QA Tester,F,30309,Scrum Master,2000-06-25,2025-06-22,0
+345,Bachelors,Psychology,Product Manager,F,10001,Six Sigma,1984-11-08,2007-06-17,18
+346,Associate,Political Science,Data Analyst,M,80202,Tableau,1975-03-05,2008-11-15,16
+347,PhD,Physics,Business Analyst,M,94107,Tableau,1978-01-04,2011-11-26,13
+348,PhD,Business Administration,Mechanical Engineer,M,80202,None,1971-09-19,1998-07-25,27
+349,PhD,Biology,Systems Analyst,M,33101,UX-C,1996-10-05,2023-08-14,2
+350,Bachelors,Physics,Marketing Specialist,F,30309,PMP,1985-07-04,2023-10-31,1
+351,Associate,Mathematics,Data Analyst,F,98101,UX-C,1984-01-27,2015-11-04,9
+352,PhD,Computer Science,Research Scientist,M,98101,AWS,1997-03-12,2024-11-29,0
+353,Masters,Biology,Business Analyst,F,94107,Scrum Master,1975-03-10,2014-06-14,11
+354,PhD,Biology,QA Tester,F,33101,UX-C,1995-11-12,2019-12-24,5
+355,PhD,Business Administration,QA Tester,F,10001,Six Sigma,1981-06-05,2004-05-28,21
+356,Bachelors,Psychology,Data Analyst,M,60614,Tableau,1989-07-24,2011-08-01,14
+357,Bachelors,Business Administration,UX Designer,M,33101,Six Sigma,1993-04-28,2025-09-08,0
+358,Associate,Mathematics,Software Engineer,M,98101,None,1994-02-25,2023-11-03,1
+359,Masters,Economics,Research Scientist,F,98101,Scrum Master,2000-01-31,2023-03-04,2
+360,Bachelors,Economics,QA Tester,M,10001,Tableau,1986-05-04,2017-12-30,7
+361,PhD,Psychology,Systems Analyst,M,30309,Six Sigma,1973-02-20,2024-12-01,0
+362,Associate,Mathematics,QA Tester,M,33101,AWS,1984-10-23,2020-10-08,5
+363,PhD,Psychology,Marketing Specialist,M,33101,PMP,1984-01-31,2020-12-11,4
+364,PhD,Mechanical Engineering,Mechanical Engineer,M,98101,None,1975-08-04,2011-01-17,14
+365,Bachelors,Economics,QA Tester,M,60614,Scrum Master,1992-09-30,2018-03-14,7
+366,Associate,Biology,Marketing Specialist,F,94107,None,1999-12-01,2024-03-10,1
+367,Masters,Political Science,Data Analyst,F,75201,AWS,1984-08-19,2015-08-23,10
+368,Masters,Computer Science,Data Analyst,M,94107,Scrum Master,1983-04-07,2017-09-06,8
+369,Bachelors,Mathematics,Business Analyst,M,33101,None,1975-09-17,2006-04-20,19
+370,Bachelors,Physics,QA Tester,F,94107,CFA,1988-11-10,2025-10-04,0
+371,Associate,Psychology,Systems Analyst,F,98101,AWS,1987-01-03,2024-03-07,1
+372,Masters,Computer Science,QA Tester,M,98101,AWS,1977-10-22,2025-04-27,0
+373,Masters,Physics,Systems Analyst,M,10001,AWS,1983-07-02,2014-08-04,11
+374,Masters,Computer Science,Product Manager,M,33101,CFA,1994-07-31,2016-07-26,9
+375,PhD,Political Science,Business Analyst,M,10001,CFA,1983-08-19,2012-01-19,13
+376,Masters,Physics,Product Manager,F,33101,Six Sigma,1979-06-06,2020-09-11,5
+377,PhD,Business Administration,QA Tester,M,75201,Tableau,1996-01-07,2024-10-20,0
+378,Associate,Data Science,Business Analyst,M,75201,PMP,1999-05-15,2023-02-27,2
+379,PhD,Business Administration,Product Manager,M,30309,None,1990-11-10,2022-10-02,3
+380,Associate,Economics,Software Engineer,M,33101,Six Sigma,1989-11-01,2016-08-11,9
+381,Masters,Data Science,QA Tester,F,60614,None,1992-12-06,2020-03-22,5
+382,Masters,Business Administration,Product Manager,F,94107,PMP,1977-08-12,2003-05-27,22
+383,Associate,Data Science,Software Engineer,F,33101,Tableau,1982-09-24,2016-04-10,9
+384,Bachelors,Data Science,Software Engineer,M,80202,CFA,1999-10-12,2025-04-24,0
+385,Associate,Biology,Data Analyst,M,30309,Tableau,1997-10-11,2023-07-09,2
+386,Bachelors,Psychology,QA Tester,F,80202,CFA,1974-03-11,2006-09-17,19
+387,PhD,Psychology,Software Engineer,M,98101,PMP,2000-03-07,2023-11-27,1
+388,PhD,Biology,Data Analyst,M,75201,Tableau,1980-01-29,2010-12-29,14
+389,PhD,Computer Science,Product Manager,F,94107,Six Sigma,1976-08-11,1999-09-10,26
+390,Masters,Mechanical Engineering,Marketing Specialist,F,33101,Scrum Master,1972-01-28,2005-01-15,20
+391,PhD,Computer Science,QA Tester,F,80202,Six Sigma,1991-04-25,2014-12-06,10
+392,Bachelors,Physics,Business Analyst,F,94107,None,1990-06-06,2021-09-16,4
+393,PhD,Physics,Systems Analyst,M,98101,Six Sigma,1998-04-02,2023-06-18,2
+394,Associate,Data Science,Systems Analyst,M,75201,PMP,1978-09-21,2017-12-06,7
+395,Associate,Business Administration,Product Manager,F,60614,AWS,1992-03-05,2023-02-14,2
+396,Masters,Business Administration,UX Designer,M,30309,None,1980-12-11,2009-07-19,16
+397,Associate,Psychology,UX Designer,F,94107,Tableau,1999-06-06,2025-04-08,0
+398,Bachelors,Mathematics,Product Manager,F,94107,None,1970-04-01,1997-01-05,28
+399,PhD,Computer Science,Software Engineer,M,60614,Scrum Master,1989-01-26,2015-12-18,9
+400,Masters,Economics,QA Tester,F,94107,CFA,1977-11-21,2023-02-09,2
+401,PhD,Political Science,Systems Analyst,M,98101,Tableau,1990-11-03,2013-12-13,11
+402,PhD,Business Administration,Systems Analyst,M,98101,UX-C,1995-01-02,2019-10-13,6
+403,Bachelors,Political Science,Software Engineer,M,60614,None,1975-06-12,2017-11-26,7
+404,Associate,Data Science,Systems Analyst,M,30309,Tableau,1975-12-25,2018-10-22,6
+405,Associate,Political Science,Business Analyst,F,33101,Tableau,1999-12-12,2024-11-27,0
+406,PhD,Economics,QA Tester,M,80202,Tableau,1995-01-27,2023-09-25,2
+407,Masters,Biology,Mechanical Engineer,F,33101,CFA,1984-03-26,2023-02-27,2
+408,Associate,Economics,Systems Analyst,F,94107,UX-C,1989-11-08,2025-07-30,0
+409,Masters,Political Science,Product Manager,F,80202,PMP,1992-08-23,2019-05-31,6
+410,Associate,Economics,Business Analyst,F,10001,Six Sigma,1994-07-30,2021-07-24,4
+411,Masters,Mechanical Engineering,Systems Analyst,M,60614,Tableau,1977-02-20,2020-06-01,5
+412,Bachelors,Data Science,Business Analyst,M,60614,AWS,1990-03-10,2017-12-26,7
+413,Masters,Computer Science,Data Analyst,F,30309,PMP,1981-02-02,2015-07-07,10
+414,Bachelors,Biology,Mechanical Engineer,F,80202,Scrum Master,1993-05-20,2020-10-19,4
+415,Bachelors,Business Administration,Research Scientist,M,98101,CFA,1998-02-11,2022-10-12,3
+416,Masters,Physics,Product Manager,F,80202,None,1982-04-27,2014-03-03,11
+417,Bachelors,Computer Science,Product Manager,M,94107,CFA,1973-06-23,2008-04-11,17
+418,PhD,Physics,QA Tester,F,98101,None,1980-07-08,2014-09-09,11
+419,Bachelors,Data Science,Business Analyst,M,75201,CFA,1985-01-24,2014-03-22,11
+420,Associate,Biology,Software Engineer,F,75201,None,1994-03-25,2017-02-12,8
+421,Masters,Psychology,Product Manager,F,10001,Tableau,1976-03-17,2004-12-16,20
+422,PhD,Business Administration,Business Analyst,M,75201,Six Sigma,1980-05-16,2019-07-16,6
+423,Masters,Mechanical Engineering,Business Analyst,F,60614,None,1976-11-08,2008-06-08,17
+424,Associate,Psychology,Marketing Specialist,F,80202,UX-C,1972-11-18,2013-06-23,12
+425,Associate,Data Science,Marketing Specialist,M,75201,None,1988-04-14,2017-09-09,8
+426,Associate,Computer Science,Research Scientist,F,33101,AWS,1994-05-05,2021-07-20,4
+427,Bachelors,Mechanical Engineering,Data Analyst,M,30309,None,1988-08-26,2012-01-13,13
+428,Bachelors,Economics,Research Scientist,M,33101,AWS,1979-04-12,2020-02-09,5
+429,Masters,Political Science,Systems Analyst,F,75201,Scrum Master,1987-06-22,2022-07-22,3
+430,Masters,Mechanical Engineering,Software Engineer,F,10001,Tableau,1970-11-17,2018-09-08,7
+431,PhD,Data Science,Systems Analyst,F,30309,AWS,1987-01-24,2019-09-30,6
+432,PhD,Mathematics,UX Designer,F,94107,Six Sigma,1970-04-07,2008-01-11,17
+433,Masters,Political Science,Systems Analyst,F,33101,PMP,1983-05-25,2022-04-12,3
+434,Bachelors,Physics,QA Tester,F,10001,Tableau,1987-06-30,2018-11-16,6
+435,Associate,Business Administration,Systems Analyst,F,80202,AWS,1994-02-22,2024-07-05,1
+436,Masters,Physics,Research Scientist,M,80202,Tableau,1994-07-01,2025-06-14,0
+437,PhD,Mechanical Engineering,Product Manager,F,33101,UX-C,1997-01-22,2021-07-08,4
+438,Bachelors,Physics,Product Manager,M,75201,Tableau,1991-11-26,2018-10-22,6
+439,Masters,Data Science,Marketing Specialist,F,10001,Tableau,1982-03-30,2014-01-01,11
+440,Masters,Economics,Software Engineer,F,80202,Scrum Master,1991-10-14,2014-06-02,11
+441,Bachelors,Computer Science,Software Engineer,M,94107,Six Sigma,1987-06-12,2016-12-19,8
+442,Masters,Business Administration,QA Tester,F,98101,CFA,2000-01-02,2024-04-03,1
+443,Bachelors,Physics,Research Scientist,F,75201,CFA,1977-05-28,2020-05-09,5
+444,Associate,Physics,Marketing Specialist,M,10001,AWS,1975-09-23,2025-08-16,0
+445,Bachelors,Mechanical Engineering,UX Designer,F,94107,Tableau,1993-12-17,2016-03-31,9
+446,Bachelors,Computer Science,Software Engineer,F,10001,AWS,1987-09-04,2022-12-07,2
+447,Bachelors,Psychology,Product Manager,F,30309,Scrum Master,1995-04-26,2024-09-25,1
+448,Masters,Physics,Systems Analyst,M,94107,Scrum Master,1971-03-21,1996-12-19,28
+449,Masters,Data Science,Systems Analyst,F,75201,None,1998-10-31,2023-03-21,2
+450,Bachelors,Mathematics,Marketing Specialist,F,30309,UX-C,1976-02-02,2018-10-13,7
+451,Masters,Business Administration,Research Scientist,F,75201,Scrum Master,1978-02-25,2002-05-23,23
+452,PhD,Physics,Research Scientist,F,80202,None,1981-09-02,2012-02-27,13
+453,PhD,Data Science,Data Analyst,M,98101,Six Sigma,1984-09-07,2011-06-01,14
+454,Masters,Data Science,Mechanical Engineer,M,75201,AWS,1990-05-25,2019-09-17,6
+455,Masters,Business Administration,Software Engineer,F,75201,PMP,1985-02-20,2024-03-12,1
+456,Bachelors,Psychology,Research Scientist,F,80202,Six Sigma,1987-01-03,2015-03-26,10
+457,Associate,Data Science,Product Manager,M,60614,Scrum Master,1988-11-28,2016-07-20,9
+458,Masters,Mathematics,Marketing Specialist,M,80202,Six Sigma,1973-09-03,2016-10-02,9
+459,PhD,Data Science,UX Designer,F,30309,Six Sigma,1970-11-14,2017-01-18,8
+460,Bachelors,Data Science,Data Analyst,M,80202,UX-C,1972-05-03,2010-01-07,15
+461,Masters,Data Science,Business Analyst,F,80202,UX-C,1980-01-22,2005-02-13,20
+462,PhD,Economics,QA Tester,M,98101,UX-C,1999-03-28,2021-06-12,4
+463,PhD,Economics,UX Designer,M,80202,Six Sigma,1971-05-24,2004-06-20,21
+464,Associate,Psychology,Business Analyst,M,10001,Scrum Master,1978-12-11,2001-11-03,23
+465,Bachelors,Physics,Systems Analyst,M,75201,PMP,1997-11-14,2021-07-25,4
+466,Bachelors,Data Science,QA Tester,F,10001,Tableau,1980-09-13,2008-05-07,17
+467,Associate,Computer Science,Software Engineer,M,98101,Six Sigma,1991-03-30,2015-10-17,10
+468,Associate,Physics,Product Manager,M,33101,None,1995-04-20,2019-09-23,6
+469,Bachelors,Psychology,QA Tester,F,60614,Scrum Master,1990-11-11,2018-08-05,7
+470,Bachelors,Biology,Mechanical Engineer,M,10001,Six Sigma,1986-07-19,2012-04-17,13
+471,Masters,Physics,Business Analyst,M,98101,PMP,1997-03-06,2020-06-12,5
+472,Masters,Physics,Software Engineer,F,30309,Tableau,1977-05-07,2013-04-14,12
+473,Associate,Political Science,Mechanical Engineer,M,33101,UX-C,1974-11-07,2022-10-17,2
+474,Masters,Mechanical Engineering,Systems Analyst,F,98101,Scrum Master,1971-02-25,2007-02-17,18
+475,PhD,Political Science,Mechanical Engineer,F,98101,CFA,1995-10-30,2025-05-29,0
+476,Masters,Mathematics,Data Analyst,F,60614,Tableau,1986-11-02,2017-09-19,8
+477,Masters,Economics,Data Analyst,F,75201,None,1978-11-24,2004-04-16,21
+478,PhD,Economics,Marketing Specialist,M,10001,Six Sigma,1996-07-23,2025-07-30,0
+479,Associate,Mechanical Engineering,UX Designer,F,30309,PMP,1980-11-22,2007-06-13,18
+480,PhD,Business Administration,UX Designer,M,94107,CFA,1983-07-13,2024-08-01,1
+481,Masters,Business Administration,Software Engineer,M,10001,PMP,2000-09-10,2023-05-10,2
+482,Associate,Psychology,Systems Analyst,M,94107,CFA,1995-05-22,2017-10-31,7
+483,Masters,Mechanical Engineering,Research Scientist,M,98101,Scrum Master,1985-07-29,2019-07-05,6
+484,PhD,Physics,Data Analyst,M,80202,CFA,1989-03-20,2019-07-06,6
+485,PhD,Business Administration,Software Engineer,M,30309,None,1973-02-03,2017-10-09,8
+486,Masters,Data Science,Research Scientist,M,33101,None,1999-01-18,2022-12-11,2
+487,Bachelors,Computer Science,UX Designer,M,80202,AWS,1970-07-27,2011-05-25,14
+488,Bachelors,Physics,Marketing Specialist,M,80202,None,1991-12-28,2016-05-04,9
+489,PhD,Mathematics,Mechanical Engineer,M,10001,Tableau,1989-06-12,2019-07-22,6
+490,PhD,Data Science,Data Analyst,F,30309,CFA,1998-07-06,2025-06-29,0
+491,Bachelors,Data Science,Software Engineer,F,75201,None,1990-08-16,2016-01-15,9
+492,Bachelors,Mechanical Engineering,QA Tester,F,98101,Scrum Master,1989-07-15,2015-06-21,10
+493,Masters,Psychology,Research Scientist,M,98101,PMP,1993-05-28,2022-09-07,3
+494,Masters,Mathematics,Mechanical Engineer,F,98101,UX-C,1982-02-12,2017-11-30,7
+495,Bachelors,Business Administration,Data Analyst,F,98101,PMP,1994-02-21,2024-10-23,0
+496,Masters,Mechanical Engineering,UX Designer,F,10001,AWS,1991-09-09,2024-02-06,1
+497,Masters,Business Administration,Systems Analyst,M,94107,PMP,1989-07-16,2024-10-23,0
+498,Associate,Mechanical Engineering,Research Scientist,M,98101,CFA,1982-01-15,2011-04-03,14
+499,Masters,Mechanical Engineering,UX Designer,M,94107,AWS,1981-01-05,2006-11-19,18
+500,PhD,Mechanical Engineering,Data Analyst,M,94107,CFA,1982-07-06,2024-04-08,1
+501,Masters,Psychology,Research Scientist,F,75201,Scrum Master,1990-03-22,2017-09-03,8
+502,Masters,Mechanical Engineering,Mechanical Engineer,F,98101,AWS,1990-11-05,2025-08-11,0
+503,Bachelors,Biology,Data Analyst,F,60614,Six Sigma,1997-05-18,2023-08-12,2
+504,PhD,Computer Science,Business Analyst,F,33101,Tableau,1985-02-02,2007-09-20,18
+505,Masters,Business Administration,Software Engineer,M,80202,Tableau,1992-03-04,2021-06-12,4
+506,Masters,Physics,Mechanical Engineer,M,94107,CFA,1978-02-27,2022-01-05,3
+507,Associate,Political Science,Research Scientist,M,30309,PMP,1979-07-08,2017-06-01,8
+508,Masters,Mathematics,Systems Analyst,F,30309,UX-C,1981-08-03,2011-03-17,14
+509,Masters,Economics,UX Designer,M,33101,UX-C,1982-07-18,2024-04-09,1
+510,Associate,Psychology,QA Tester,M,30309,Six Sigma,1996-09-28,2021-10-28,3
+511,Bachelors,Physics,UX Designer,F,60614,AWS,1994-12-07,2017-01-11,8
+512,Masters,Data Science,Research Scientist,F,30309,Six Sigma,1993-03-05,2017-04-20,8
+513,Associate,Biology,UX Designer,M,80202,Six Sigma,1973-11-03,2006-08-26,19
+514,PhD,Economics,Software Engineer,M,80202,PMP,1988-03-25,2021-03-04,4
+515,Bachelors,Political Science,Data Analyst,M,94107,UX-C,1994-11-27,2025-05-23,0
+516,PhD,Physics,QA Tester,M,98101,AWS,1980-10-12,2024-02-14,1
+517,PhD,Economics,Product Manager,M,75201,Scrum Master,1998-12-22,2024-12-12,0
+518,Associate,Physics,Research Scientist,M,60614,PMP,1992-01-07,2024-01-20,1
+519,Masters,Biology,Marketing Specialist,F,94107,Six Sigma,1970-10-10,1996-12-06,28
+520,Associate,Political Science,Product Manager,F,60614,Six Sigma,1983-03-14,2010-02-25,15
+521,Associate,Data Science,UX Designer,F,98101,Scrum Master,1988-02-21,2025-08-22,0
+522,Associate,Mechanical Engineering,Research Scientist,M,10001,Six Sigma,1980-11-30,2016-08-19,9
+523,Associate,Business Administration,Business Analyst,F,30309,Six Sigma,1999-10-14,2025-01-11,0
+524,Bachelors,Data Science,Marketing Specialist,M,30309,Six Sigma,1986-07-22,2019-02-25,6
+525,Masters,Mechanical Engineering,QA Tester,M,75201,Tableau,1994-10-30,2022-10-07,3
+526,PhD,Psychology,Systems Analyst,F,98101,PMP,1985-06-03,2016-12-12,8
+527,PhD,Computer Science,Business Analyst,M,94107,None,1994-09-09,2020-05-19,5
+528,Masters,Mathematics,Product Manager,M,75201,PMP,1985-10-13,2023-07-13,2
+529,PhD,Mathematics,Data Analyst,F,98101,Scrum Master,1990-05-10,2018-06-01,7
+530,Masters,Business Administration,Software Engineer,F,33101,Six Sigma,1983-10-03,2011-05-18,14
+531,PhD,Political Science,Systems Analyst,F,80202,PMP,1980-05-05,2007-09-27,18
+532,Associate,Biology,Business Analyst,M,75201,Tableau,1978-08-22,2014-10-11,11
+533,PhD,Political Science,Data Analyst,F,75201,UX-C,1975-05-13,2021-05-20,4
+534,Masters,Biology,Data Analyst,F,94107,Scrum Master,2000-12-16,2023-12-25,1
+535,Masters,Political Science,Research Scientist,M,60614,CFA,1978-08-05,2010-04-14,15
+536,Masters,Computer Science,Business Analyst,F,33101,PMP,1991-09-21,2019-11-28,5
+537,Masters,Psychology,QA Tester,F,94107,CFA,1996-06-12,2024-04-24,1
+538,Masters,Psychology,UX Designer,F,98101,Six Sigma,1996-10-08,2021-12-05,3
+539,Bachelors,Mechanical Engineering,Marketing Specialist,M,98101,Tableau,1974-07-06,2005-03-15,20
+540,Bachelors,Economics,Marketing Specialist,M,98101,Tableau,1983-04-16,2010-05-17,15
+541,PhD,Psychology,Product Manager,M,10001,PMP,1986-03-10,2012-03-12,13
+542,Masters,Psychology,Product Manager,M,98101,Scrum Master,1983-07-24,2005-11-10,19
+543,PhD,Data Science,Marketing Specialist,F,60614,Scrum Master,1993-12-17,2017-05-13,8
+544,Masters,Data Science,QA Tester,M,33101,Tableau,1982-04-22,2005-04-23,20
+545,Masters,Mechanical Engineering,Software Engineer,M,30309,Scrum Master,1972-06-12,2019-04-03,6
+546,Bachelors,Economics,Mechanical Engineer,F,80202,Tableau,1983-02-08,2020-09-24,5
+547,Bachelors,Business Administration,UX Designer,F,60614,PMP,1975-08-31,2019-09-01,6
+548,Associate,Data Science,Software Engineer,F,60614,None,1974-08-08,1997-02-18,28
+549,Bachelors,Business Administration,Research Scientist,M,10001,Tableau,1995-10-02,2020-12-03,4
+550,Associate,Physics,Mechanical Engineer,M,30309,CFA,1991-01-21,2023-10-11,2
+551,Associate,Data Science,Mechanical Engineer,M,30309,Scrum Master,1989-10-04,2019-05-21,6
+552,Associate,Computer Science,Business Analyst,F,80202,Tableau,1978-04-09,2002-07-23,23
+553,Associate,Economics,QA Tester,F,80202,Tableau,1981-04-29,2024-09-27,1
+554,Associate,Mechanical Engineering,QA Tester,M,30309,PMP,1975-02-13,2000-01-13,25
+555,PhD,Physics,Mechanical Engineer,F,98101,Scrum Master,1987-12-23,2020-12-27,4
+556,Bachelors,Economics,Business Analyst,F,60614,None,1973-04-28,2021-03-10,4
+557,Associate,Computer Science,UX Designer,F,94107,PMP,1998-03-27,2024-01-25,1
+558,Masters,Economics,Mechanical Engineer,M,80202,None,1972-05-28,2001-03-12,24
+559,Bachelors,Computer Science,Systems Analyst,F,10001,UX-C,1976-09-10,2023-12-04,1
+560,Bachelors,Computer Science,Product Manager,F,10001,PMP,1983-08-19,2007-07-11,18
+561,Associate,Business Administration,Product Manager,M,80202,Scrum Master,1981-02-18,2008-06-06,17
+562,PhD,Political Science,Software Engineer,M,30309,AWS,1995-01-13,2025-08-04,0
+563,Associate,Physics,Research Scientist,F,33101,Scrum Master,1988-09-01,2024-04-01,1
+564,PhD,Economics,Product Manager,F,94107,Scrum Master,1996-09-27,2025-08-29,0
+565,Masters,Biology,Data Analyst,M,94107,None,1980-02-15,2025-07-19,0
+566,Bachelors,Physics,Software Engineer,M,80202,None,1987-01-24,2019-02-25,6
+567,Masters,Political Science,Product Manager,F,98101,Scrum Master,1989-11-10,2018-07-06,7
+568,PhD,Physics,Research Scientist,F,33101,Scrum Master,1996-05-26,2023-03-12,2
+569,PhD,Psychology,QA Tester,F,94107,Scrum Master,1983-09-13,2018-06-09,7
+570,Masters,Biology,QA Tester,F,80202,None,1997-11-09,2020-07-07,5
+571,PhD,Political Science,UX Designer,M,10001,Scrum Master,1997-05-07,2020-06-11,5
+572,Masters,Business Administration,Mechanical Engineer,F,94107,Scrum Master,1979-04-28,2010-10-09,15
+573,Bachelors,Economics,Systems Analyst,F,75201,UX-C,1981-11-14,2018-09-01,7
+574,Masters,Mathematics,QA Tester,M,33101,Six Sigma,1973-08-23,2002-09-03,23
+575,Bachelors,Political Science,Business Analyst,F,33101,AWS,1980-10-04,2010-07-16,15
+576,Masters,Mechanical Engineering,Product Manager,M,75201,CFA,1994-10-05,2017-08-02,8
+577,PhD,Economics,Business Analyst,F,60614,AWS,1977-01-08,1999-02-15,26
+578,Masters,Political Science,Research Scientist,F,10001,Six Sigma,1988-04-29,2020-05-31,5
+579,PhD,Psychology,QA Tester,M,75201,CFA,2000-12-03,2025-07-17,0
+580,Masters,Mathematics,Systems Analyst,M,30309,PMP,1983-01-24,2005-10-12,20
+581,Masters,Psychology,Research Scientist,F,30309,Scrum Master,1980-05-20,2015-04-17,10
+582,Associate,Mathematics,Data Analyst,F,80202,Six Sigma,1982-09-07,2020-06-07,5
+583,PhD,Mechanical Engineering,Data Analyst,F,33101,UX-C,1990-05-14,2013-12-12,11
+584,Associate,Economics,Business Analyst,M,60614,PMP,2000-11-01,2024-02-17,1
+585,PhD,Business Administration,Mechanical Engineer,F,60614,Scrum Master,1981-11-13,2021-07-09,4
+586,Associate,Psychology,Software Engineer,M,94107,None,1998-01-14,2022-03-29,3
+587,Bachelors,Psychology,Mechanical Engineer,M,94107,Tableau,1989-01-26,2013-08-18,12
+588,Masters,Computer Science,UX Designer,F,75201,Six Sigma,1994-06-06,2018-12-07,6
+589,PhD,Mathematics,Mechanical Engineer,M,60614,None,1999-01-19,2021-11-14,3
+590,PhD,Data Science,UX Designer,F,75201,Six Sigma,1981-12-01,2022-06-10,3
+591,Masters,Economics,UX Designer,F,10001,UX-C,1976-05-19,2001-07-26,24
+592,PhD,Mathematics,Systems Analyst,F,75201,Six Sigma,1972-09-04,2002-02-07,23
+593,PhD,Computer Science,QA Tester,F,94107,None,1983-10-19,2019-02-16,6
+594,Associate,Physics,Systems Analyst,F,33101,UX-C,1995-07-14,2020-10-02,5
+595,PhD,Mathematics,UX Designer,M,75201,CFA,1989-09-13,2014-06-22,11
+596,Bachelors,Business Administration,Research Scientist,M,98101,AWS,1991-01-10,2019-10-31,5
+597,Bachelors,Economics,Data Analyst,F,33101,Scrum Master,1988-01-21,2016-02-23,9
+598,Masters,Computer Science,UX Designer,F,60614,Six Sigma,1992-06-13,2025-07-05,0
+599,PhD,Physics,Systems Analyst,M,60614,Scrum Master,1989-08-21,2013-06-04,12
+600,Masters,Biology,Research Scientist,M,75201,Tableau,1996-10-29,2019-04-05,6
