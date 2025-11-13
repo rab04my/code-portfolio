@@ -2,10 +2,10 @@
 
 ## Overview
 
-This repository serves as a collection of code samples that demonstrate my technical skills (experimentation mindset) and experience. The contents include:
-- **Work-related projects**: Professional code that has been generalized and sanitized to protect proprietary information and intellectual property
+This repository serves as a collection of code samples that (hopefully) demonstrate some depth and breadth of my technical skills (experimentation mindset) and experience. The contents include:
+- **Work-related projects**: More professional code that has been generalized and sanitized to protect proprietary information and intellectual property
 - **Learning projects**: Personal projects created while exploring new technologies, frameworks, or programming concepts
-- **Experimental work**: Code from proof-of-concepts, technical investigations, and skill development (thus not polished)
+- **Experimental work**: Code from proof-of-concepts, technical investigations, skill development, scratch work, etc. (thus not polished)
 
 ### Purpose
 This portfolio is maintained primarily for reviewing my technical capabilities, assessing code quality and problem-solving approaches, and general sharing within the tech community.
